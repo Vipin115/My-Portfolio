@@ -11,7 +11,7 @@ const Contact = () => {
     <div className="contact" id="contact">
       <h1 className="contact-title">
         <Fade bottom cascade duration={2500}>
-          Reach Out To Me!
+          Feel free to contact
         </Fade>
       </h1>
       <div className="icon">
@@ -24,11 +24,11 @@ const Contact = () => {
       </div>
 
       <center>
-        <p id="emailPhone"><a href="tel:+919399834008">📞+91 9399834008</a>  <a href="mailto:surajkarosia98@gmail.com" target="_blank" id="email"> 📧 surajkarosia98@gmail.com</a></p>
+        <p id="emailPhone"><a href="tel:+917978627875">📞+91 7978627875</a>  <a href="mailto:vipinawd115@gmail.com" target="_blank" id="email"> 📧 vipinawd115@gmail.com</a></p>
         <hr className="style-f" />
       </center>
       <p className="copyright">
-        👨‍💻 with ❤️ by <b id="footName">Suraj Karosia</b> using ⚛️ 
+        👨‍💻 with ❤️ by <b id="footName">Vipin Awadhiya</b> using ⚛️ 
        </p>
       
 
